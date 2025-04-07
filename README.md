@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vennela343/p6-leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/vennela343/p6-leetcode/tree/master/0088-merge-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/vennela343/p6-leetcode/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/vennela343/p6-leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vennela343/p6-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/vennela343/p6-leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 ## Hash Table
@@ -71,4 +72,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/vennela343/p6-leetcode/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/vennela343/p6-leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->

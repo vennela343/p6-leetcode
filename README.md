@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vennela343/p6-leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/vennela343/p6-leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/vennela343/p6-leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/vennela343/p6-leetcode/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/vennela343/p6-leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/vennela343/p6-leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/vennela343/p6-leetcode/tree/master/0496-next-greater-element-i) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vennela343/p6-leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/vennela343/p6-leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/vennela343/p6-leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/vennela343/p6-leetcode/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/vennela343/p6-leetcode/tree/master/0496-next-greater-element-i) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/vennela343/p6-leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/vennela343/p6-leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/vennela343/p6-leetcode/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/vennela343/p6-leetcode/tree/master/0368-largest-divisible-subset) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/vennela343/p6-leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/vennela343/p6-leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vennela343/p6-leetcode/tree/master/0169-majority-element) |
 | [2280-count-good-triplets-in-an-array](https://github.com/vennela343/p6-leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |
@@ -160,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/vennela343/p6-leetcode/tree/master/0682-baseball-game) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vennela343/p6-leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

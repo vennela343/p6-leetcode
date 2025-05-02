@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/vennela343/p6-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/vennela343/p6-leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/vennela343/p6-leetcode/tree/master/0290-word-pattern) |
+| [0868-push-dominoes](https://github.com/vennela343/p6-leetcode/tree/master/0868-push-dominoes) |
 ## Sorting
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vennela343/p6-leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/vennela343/p6-leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/vennela343/p6-leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0868-push-dominoes](https://github.com/vennela343/p6-leetcode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/vennela343/p6-leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/vennela343/p6-leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Dynamic Programming
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/vennela343/p6-leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/vennela343/p6-leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0868-push-dominoes](https://github.com/vennela343/p6-leetcode/tree/master/0868-push-dominoes) |
 ## Recursion
 |  |
 | ------- |

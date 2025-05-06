@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vennela343/p6-leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/vennela343/p6-leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vennela343/p6-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/vennela343/p6-leetcode/tree/master/2048-build-array-from-permutation) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/vennela343/p6-leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/vennela343/p6-leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/vennela343/p6-leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/vennela343/p6-leetcode/tree/master/0682-baseball-game) |
+| [2048-build-array-from-permutation](https://github.com/vennela343/p6-leetcode/tree/master/2048-build-array-from-permutation) |
 ## Counting
 |  |
 | ------- |

@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/vennela343/p6-leetcode/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vennela343/p6-leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/vennela343/p6-leetcode/tree/master/1500-count-largest-group) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/vennela343/p6-leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vennela343/p6-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/vennela343/p6-leetcode/tree/master/2050-count-good-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/vennela343/p6-leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/vennela343/p6-leetcode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vennela343/p6-leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1095-two-city-scheduling](https://github.com/vennela343/p6-leetcode/tree/master/1095-two-city-scheduling) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/vennela343/p6-leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/vennela343/p6-leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/vennela343/p6-leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vennela343/p6-leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |

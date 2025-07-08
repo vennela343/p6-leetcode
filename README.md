@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/vennela343/p6-leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vennela343/p6-leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/vennela343/p6-leetcode/tree/master/1656-count-good-triplets) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vennela343/p6-leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vennela343/p6-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/vennela343/p6-leetcode/tree/master/2048-build-array-from-permutation) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/vennela343/p6-leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/vennela343/p6-leetcode/tree/master/1095-two-city-scheduling) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vennela343/p6-leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vennela343/p6-leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vennela343/p6-leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/vennela343/p6-leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/vennela343/p6-leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/vennela343/p6-leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/vennela343/p6-leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/vennela343/p6-leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/vennela343/p6-leetcode/tree/master/0868-push-dominoes) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vennela343/p6-leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/vennela343/p6-leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/vennela343/p6-leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/vennela343/p6-leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vennela343/p6-leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vennela343/p6-leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/vennela343/p6-leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/vennela343/p6-leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/vennela343/p6-leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |

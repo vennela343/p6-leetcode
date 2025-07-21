@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vennela343/p6-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vennela343/p6-leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vennela343/p6-leetcode/tree/master/0088-merge-sorted-array) |
+| [0149-max-points-on-a-line](https://github.com/vennela343/p6-leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/vennela343/p6-leetcode/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/vennela343/p6-leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/vennela343/p6-leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/vennela343/p6-leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/vennela343/p6-leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0149-max-points-on-a-line](https://github.com/vennela343/p6-leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/vennela343/p6-leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/vennela343/p6-leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/vennela343/p6-leetcode/tree/master/0290-word-pattern) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/vennela343/p6-leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/vennela343/p6-leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/vennela343/p6-leetcode/tree/master/0067-add-binary) |
+| [0149-max-points-on-a-line](https://github.com/vennela343/p6-leetcode/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/vennela343/p6-leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/vennela343/p6-leetcode/tree/master/0227-basic-calculator-ii) |
 | [0368-largest-divisible-subset](https://github.com/vennela343/p6-leetcode/tree/master/0368-largest-divisible-subset) |
@@ -442,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1013-fibonacci-number](https://github.com/vennela343/p6-leetcode/tree/master/1013-fibonacci-number) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/vennela343/p6-leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/vennela343/p6-leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->

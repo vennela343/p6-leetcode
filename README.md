@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/vennela343/p6-leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/vennela343/p6-leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/vennela343/p6-leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/vennela343/p6-leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/vennela343/p6-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/vennela343/p6-leetcode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/vennela343/p6-leetcode/tree/master/0224-basic-calculator) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/vennela343/p6-leetcode/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/vennela343/p6-leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/vennela343/p6-leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/vennela343/p6-leetcode/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/vennela343/p6-leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/vennela343/p6-leetcode/tree/master/0227-basic-calculator-ii) |
 | [0368-largest-divisible-subset](https://github.com/vennela343/p6-leetcode/tree/master/0368-largest-divisible-subset) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vennela343/p6-leetcode/tree/master/0067-add-binary) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vennela343/p6-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vennela343/p6-leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Combinatorics
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/vennela343/p6-leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/vennela343/p6-leetcode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/vennela343/p6-leetcode/tree/master/0682-baseball-game) |
 | [2048-build-array-from-permutation](https://github.com/vennela343/p6-leetcode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/vennela343/p6-leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |

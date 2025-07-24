@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/vennela343/p6-leetcode/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/vennela343/p6-leetcode/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/vennela343/p6-leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/vennela343/p6-leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/vennela343/p6-leetcode/tree/master/0067-add-binary) |
 | [0149-max-points-on-a-line](https://github.com/vennela343/p6-leetcode/tree/master/0149-max-points-on-a-line) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/vennela343/p6-leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/vennela343/p6-leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vennela343/p6-leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/vennela343/p6-leetcode/tree/master/0224-basic-calculator) |

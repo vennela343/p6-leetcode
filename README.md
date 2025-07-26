@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vennela343/p6-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vennela343/p6-leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vennela343/p6-leetcode/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/vennela343/p6-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/vennela343/p6-leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/vennela343/p6-leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/vennela343/p6-leetcode/tree/master/0204-count-primes) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/vennela343/p6-leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/vennela343/p6-leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/vennela343/p6-leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/vennela343/p6-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/vennela343/p6-leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/vennela343/p6-leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/vennela343/p6-leetcode/tree/master/0205-isomorphic-strings) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vennela343/p6-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/vennela343/p6-leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Trie
 |  |

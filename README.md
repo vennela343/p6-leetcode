@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/vennela343/p6-leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/vennela343/p6-leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/vennela343/p6-leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/vennela343/p6-leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/vennela343/p6-leetcode/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/vennela343/p6-leetcode/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/vennela343/p6-leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/vennela343/p6-leetcode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/vennela343/p6-leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/vennela343/p6-leetcode/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/vennela343/p6-leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/vennela343/p6-leetcode/tree/master/0290-word-pattern) |
 | [0868-push-dominoes](https://github.com/vennela343/p6-leetcode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/vennela343/p6-leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vennela343/p6-leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vennela343/p6-leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vennela343/p6-leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/vennela343/p6-leetcode/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/vennela343/p6-leetcode/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/vennela343/p6-leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1095-two-city-scheduling](https://github.com/vennela343/p6-leetcode/tree/master/1095-two-city-scheduling) |

@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vennela343/p6-leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/vennela343/p6-leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vennela343/p6-leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/vennela343/p6-leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/vennela343/p6-leetcode/tree/master/0049-group-anagrams) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/vennela343/p6-leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vennela343/p6-leetcode/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/vennela343/p6-leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/vennela343/p6-leetcode/tree/master/0043-multiply-strings) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/vennela343/p6-leetcode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/vennela343/p6-leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vennela343/p6-leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/vennela343/p6-leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/vennela343/p6-leetcode/tree/master/0050-powx-n) |

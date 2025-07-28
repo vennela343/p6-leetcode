@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vennela343/p6-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/vennela343/p6-leetcode/tree/master/2048-build-array-from-permutation) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/vennela343/p6-leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vennela343/p6-leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/vennela343/p6-leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/vennela343/p6-leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vennela343/p6-leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -239,11 +240,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vennela343/p6-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/vennela343/p6-leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vennela343/p6-leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vennela343/p6-leetcode/tree/master/0067-add-binary) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vennela343/p6-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vennela343/p6-leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/vennela343/p6-leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vennela343/p6-leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Combinatorics
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/vennela343/p6-leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vennela343/p6-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/vennela343/p6-leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vennela343/p6-leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/vennela343/p6-leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/vennela343/p6-leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/vennela343/p6-leetcode/tree/master/2998-count-symmetric-integers) |

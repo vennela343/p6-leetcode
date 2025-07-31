@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vennela343/p6-leetcode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/vennela343/p6-leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/vennela343/p6-leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/vennela343/p6-leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/vennela343/p6-leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/vennela343/p6-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vennela343/p6-leetcode/tree/master/0075-sort-colors) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vennela343/p6-leetcode/tree/master/0053-maximum-subarray) |
 | [0368-largest-divisible-subset](https://github.com/vennela343/p6-leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/vennela343/p6-leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/vennela343/p6-leetcode/tree/master/0806-domino-and-tromino-tiling) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vennela343/p6-leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/vennela343/p6-leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/vennela343/p6-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2280-count-good-triplets-in-an-array](https://github.com/vennela343/p6-leetcode/tree/master/2280-count-good-triplets-in-an-array) |

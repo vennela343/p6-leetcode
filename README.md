@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/vennela343/p6-leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vennela343/p6-leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/vennela343/p6-leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/vennela343/p6-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/vennela343/p6-leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/vennela343/p6-leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/vennela343/p6-leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/vennela343/p6-leetcode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/vennela343/p6-leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vennela343/p6-leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/vennela343/p6-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/vennela343/p6-leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vennela343/p6-leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/vennela343/p6-leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/vennela343/p6-leetcode/tree/master/0682-baseball-game) |
 | [2048-build-array-from-permutation](https://github.com/vennela343/p6-leetcode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/vennela343/p6-leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/vennela343/p6-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2479-meeting-rooms-iii](https://github.com/vennela343/p6-leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vennela343/p6-leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting

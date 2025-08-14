@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/vennela343/p6-leetcode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/vennela343/p6-leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/vennela343/p6-leetcode/tree/master/0290-word-pattern) |
+| [0443-string-compression](https://github.com/vennela343/p6-leetcode/tree/master/0443-string-compression) |
 | [0868-push-dominoes](https://github.com/vennela343/p6-leetcode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/vennela343/p6-leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/vennela343/p6-leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vennela343/p6-leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vennela343/p6-leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/vennela343/p6-leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/vennela343/p6-leetcode/tree/master/0443-string-compression) |
 | [0868-push-dominoes](https://github.com/vennela343/p6-leetcode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/vennela343/p6-leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vennela343/p6-leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |

@@ -586,4 +586,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/vennela343/p6-leetcode/tree/master/0812-rotate-string) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/vennela343/p6-leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vennela343/p6-leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/vennela343/p6-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vennela343/p6-leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vennela343/p6-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/vennela343/p6-leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/vennela343/p6-leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/vennela343/p6-leetcode/tree/master/0496-next-greater-element-i) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/vennela343/p6-leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/vennela343/p6-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vennela343/p6-leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vennela343/p6-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/vennela343/p6-leetcode/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/vennela343/p6-leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/vennela343/p6-leetcode/tree/master/0797-rabbits-in-forest) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vennela343/p6-leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vennela343/p6-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vennela343/p6-leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vennela343/p6-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/vennela343/p6-leetcode/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/vennela343/p6-leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/vennela343/p6-leetcode/tree/master/0900-reordered-power-of-2) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vennela343/p6-leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/vennela343/p6-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/vennela343/p6-leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vennela343/p6-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/vennela343/p6-leetcode/tree/master/0443-string-compression) |
 | [0868-push-dominoes](https://github.com/vennela343/p6-leetcode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/vennela343/p6-leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -374,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/vennela343/p6-leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vennela343/p6-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vennela343/p6-leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vennela343/p6-leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/vennela343/p6-leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |

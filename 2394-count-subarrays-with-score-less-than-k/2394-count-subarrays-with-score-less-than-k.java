@@ -1,16 +1,16 @@
 class Solution {
     public long countSubarrays(int[] nums, long k) {
-        int n = nums.length;
-        long res = 0, total = 0;
-        for (int i = 0, j = 0; j < n; j++) {
-            total += nums[j];
-            while (i <= j && total * (j - i + 1) >= k) {
-                total -= nums[i];
-                i++;
+        int left=0;
+        long count=0;
+        long currSum=0;
+        for(int right=0;right<nums.length;right++){
+            currSum += nums[right];
+            while(currSum*(right-left+1)>=k){
+                currSum-=nums[left];
+                left++;
             }
-            res += j - i + 1;
+            count +=right-left+1;
         }
-        return res;
+        return count;
     }
 }
-  

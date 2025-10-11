@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/vennela343/p6-leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/vennela343/p6-leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/vennela343/p6-leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vennela343/p6-leetcode/tree/master/0101-symmetric-tree) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/vennela343/p6-leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/vennela343/p6-leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/vennela343/p6-leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vennela343/p6-leetcode/tree/master/0101-symmetric-tree) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/vennela343/p6-leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/vennela343/p6-leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/vennela343/p6-leetcode/tree/master/0067-add-binary) |
+| [0096-unique-binary-search-trees](https://github.com/vennela343/p6-leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/vennela343/p6-leetcode/tree/master/0149-max-points-on-a-line) |
 | [0204-count-primes](https://github.com/vennela343/p6-leetcode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/vennela343/p6-leetcode/tree/master/0224-basic-calculator) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vennela343/p6-leetcode/tree/master/0053-maximum-subarray) |
+| [0096-unique-binary-search-trees](https://github.com/vennela343/p6-leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/vennela343/p6-leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vennela343/p6-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/vennela343/p6-leetcode/tree/master/0152-maximum-product-subarray) |
@@ -662,5 +666,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/vennela343/p6-leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/vennela343/p6-leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->

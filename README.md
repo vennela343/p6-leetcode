@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/vennela343/p6-leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vennela343/p6-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/vennela343/p6-leetcode/tree/master/0110-balanced-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vennela343/p6-leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0543-diameter-of-binary-tree](https://github.com/vennela343/p6-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vennela343/p6-leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/vennela343/p6-leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/vennela343/p6-leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vennela343/p6-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/vennela343/p6-leetcode/tree/master/0110-balanced-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vennela343/p6-leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0543-diameter-of-binary-tree](https://github.com/vennela343/p6-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vennela343/p6-leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/vennela343/p6-leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/vennela343/p6-leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vennela343/p6-leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vennela343/p6-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vennela343/p6-leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vennela343/p6-leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/vennela343/p6-leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/vennela343/p6-leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/vennela343/p6-leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vennela343/p6-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/vennela343/p6-leetcode/tree/master/0110-balanced-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vennela343/p6-leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0543-diameter-of-binary-tree](https://github.com/vennela343/p6-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vennela343/p6-leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Math
@@ -563,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vennela343/p6-leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0203-remove-linked-list-elements](https://github.com/vennela343/p6-leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vennela343/p6-leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vennela343/p6-leetcode/tree/master/0237-delete-node-in-a-linked-list) |

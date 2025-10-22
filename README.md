@@ -673,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/vennela343/p6-leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/vennela343/p6-leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/vennela343/p6-leetcode/tree/master/0596-classes-with-at-least-5-students) |
+| [0619-biggest-single-number](https://github.com/vennela343/p6-leetcode/tree/master/0619-biggest-single-number) |
 | [1258-article-views-i](https://github.com/vennela343/p6-leetcode/tree/master/1258-article-views-i) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/vennela343/p6-leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1625-group-sold-products-by-the-date](https://github.com/vennela343/p6-leetcode/tree/master/1625-group-sold-products-by-the-date) |

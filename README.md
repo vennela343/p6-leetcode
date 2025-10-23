@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/vennela343/p6-leetcode/tree/master/0682-baseball-game) |
 | [0797-rabbits-in-forest](https://github.com/vennela343/p6-leetcode/tree/master/0797-rabbits-in-forest) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vennela343/p6-leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1039-find-the-town-judge](https://github.com/vennela343/p6-leetcode/tree/master/1039-find-the-town-judge) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vennela343/p6-leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1095-two-city-scheduling](https://github.com/vennela343/p6-leetcode/tree/master/1095-two-city-scheduling) |
 | [1293-three-consecutive-odds](https://github.com/vennela343/p6-leetcode/tree/master/1293-three-consecutive-odds) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/vennela343/p6-leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/vennela343/p6-leetcode/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/vennela343/p6-leetcode/tree/master/0900-reordered-power-of-2) |
+| [1039-find-the-town-judge](https://github.com/vennela343/p6-leetcode/tree/master/1039-find-the-town-judge) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vennela343/p6-leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1500-count-largest-group](https://github.com/vennela343/p6-leetcode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/vennela343/p6-leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1039-find-the-town-judge](https://github.com/vennela343/p6-leetcode/tree/master/1039-find-the-town-judge) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/vennela343/p6-leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/vennela343/p6-leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/vennela343/p6-leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |

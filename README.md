@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vennela343/p6-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vennela343/p6-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vennela343/p6-leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2121-find-if-path-exists-in-graph](https://github.com/vennela343/p6-leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/vennela343/p6-leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/vennela343/p6-leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/vennela343/p6-leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/vennela343/p6-leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vennela343/p6-leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/vennela343/p6-leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [2121-find-if-path-exists-in-graph](https://github.com/vennela343/p6-leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/vennela343/p6-leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/vennela343/p6-leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/vennela343/p6-leetcode/tree/master/1039-find-the-town-judge) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/vennela343/p6-leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1916-find-center-of-star-graph](https://github.com/vennela343/p6-leetcode/tree/master/1916-find-center-of-star-graph) |
+| [2121-find-if-path-exists-in-graph](https://github.com/vennela343/p6-leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/vennela343/p6-leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/vennela343/p6-leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/vennela343/p6-leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -631,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vennela343/p6-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/vennela343/p6-leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [2121-find-if-path-exists-in-graph](https://github.com/vennela343/p6-leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Trie
 |  |
 | ------- |

@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/vennela343/p6-leetcode/tree/master/0682-baseball-game) |
 | [0797-rabbits-in-forest](https://github.com/vennela343/p6-leetcode/tree/master/0797-rabbits-in-forest) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vennela343/p6-leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/vennela343/p6-leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1039-find-the-town-judge](https://github.com/vennela343/p6-leetcode/tree/master/1039-find-the-town-judge) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vennela343/p6-leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1095-two-city-scheduling](https://github.com/vennela343/p6-leetcode/tree/master/1095-two-city-scheduling) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/vennela343/p6-leetcode/tree/master/0797-rabbits-in-forest) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/vennela343/p6-leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vennela343/p6-leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1095-two-city-scheduling](https://github.com/vennela343/p6-leetcode/tree/master/1095-two-city-scheduling) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vennela343/p6-leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |

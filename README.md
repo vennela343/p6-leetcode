@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vennela343/p6-leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vennela343/p6-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/vennela343/p6-leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/vennela343/p6-leetcode/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/vennela343/p6-leetcode/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/vennela343/p6-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/vennela343/p6-leetcode/tree/master/0169-majority-element) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vennela343/p6-leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/vennela343/p6-leetcode/tree/master/0136-single-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vennela343/p6-leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vennela343/p6-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vennela343/p6-leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |

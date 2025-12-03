@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vennela343/p6-leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/vennela343/p6-leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/vennela343/p6-leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/vennela343/p6-leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/vennela343/p6-leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/vennela343/p6-leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/vennela343/p6-leetcode/tree/master/3639-zero-array-transformation-i) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/vennela343/p6-leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/vennela343/p6-leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vennela343/p6-leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/vennela343/p6-leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vennela343/p6-leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/vennela343/p6-leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/vennela343/p6-leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/vennela343/p6-leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/vennela343/p6-leetcode/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vennela343/p6-leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/vennela343/p6-leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vennela343/p6-leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/vennela343/p6-leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/vennela343/p6-leetcode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -658,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/vennela343/p6-leetcode/tree/master/0149-max-points-on-a-line) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/vennela343/p6-leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Number Theory
 |  |
 | ------- |

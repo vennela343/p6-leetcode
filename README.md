@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vennela343/p6-leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/vennela343/p6-leetcode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/vennela343/p6-leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1925-count-square-sum-triples](https://github.com/vennela343/p6-leetcode/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vennela343/p6-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/vennela343/p6-leetcode/tree/master/2050-count-good-numbers) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/vennela343/p6-leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/vennela343/p6-leetcode/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/vennela343/p6-leetcode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/vennela343/p6-leetcode/tree/master/1656-count-good-triplets) |
+| [1925-count-square-sum-triples](https://github.com/vennela343/p6-leetcode/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vennela343/p6-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/vennela343/p6-leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vennela343/p6-leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |

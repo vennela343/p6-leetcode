@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vennela343/p6-leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/vennela343/p6-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/vennela343/p6-leetcode/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/vennela343/p6-leetcode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/vennela343/p6-leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/vennela343/p6-leetcode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/vennela343/p6-leetcode/tree/master/0242-valid-anagram) |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/vennela343/p6-leetcode/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/vennela343/p6-leetcode/tree/master/0812-rotate-string) |
 ## Database
 |  |
@@ -734,4 +736,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/vennela343/p6-leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/vennela343/p6-leetcode/tree/master/0098-validate-binary-search-tree) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/vennela343/p6-leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/vennela343/p6-leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->

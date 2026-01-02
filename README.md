@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vennela343/p6-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/vennela343/p6-leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vennela343/p6-leetcode/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/vennela343/p6-leetcode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/vennela343/p6-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vennela343/p6-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vennela343/p6-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vennela343/p6-leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vennela343/p6-leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vennela343/p6-leetcode/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/vennela343/p6-leetcode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/vennela343/p6-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vennela343/p6-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vennela343/p6-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -744,4 +746,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/vennela343/p6-leetcode/tree/master/0214-shortest-palindrome) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/vennela343/p6-leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->

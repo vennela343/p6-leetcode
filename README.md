@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/vennela343/p6-leetcode/tree/master/0682-baseball-game) |
 | [0797-rabbits-in-forest](https://github.com/vennela343/p6-leetcode/tree/master/0797-rabbits-in-forest) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vennela343/p6-leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/vennela343/p6-leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/vennela343/p6-leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1039-find-the-town-judge](https://github.com/vennela343/p6-leetcode/tree/master/1039-find-the-town-judge) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vennela343/p6-leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/vennela343/p6-leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/vennela343/p6-leetcode/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/vennela343/p6-leetcode/tree/master/0900-reordered-power-of-2) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/vennela343/p6-leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1039-find-the-town-judge](https://github.com/vennela343/p6-leetcode/tree/master/1039-find-the-town-judge) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vennela343/p6-leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1500-count-largest-group](https://github.com/vennela343/p6-leetcode/tree/master/1500-count-largest-group) |
